@@ -36,9 +36,6 @@ function App() {
     React.createElement(Expenses, {items: expenses})
   );
 
-
-
-
   // return (
   //   <div>
   //     <h2>Let's get started!</h2>
